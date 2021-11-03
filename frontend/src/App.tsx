@@ -9,7 +9,7 @@ function App() {
     <>
       <NavBar />
       <div className="container">
-        <h2 className="text-primary py-3">Dashboard de vendas</h2>
+        <h2 className="text-primary py-3">Dashboard de Vendas</h2>
 
         <div className="row px-3">
           <div className="col-sm-6">
