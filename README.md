@@ -1,6 +1,8 @@
 # DSVendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jovinbon/projeto-sds3/blob/master/LICENSE) 
 
+#### [Meu certificado](https://learn.devsuperior.com/certificados/1832952)
+
 # Sobre o projeto
 
 https://dsvendas-cfontes.netlify.app
