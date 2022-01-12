@@ -10,7 +10,7 @@ DSVEndas é uma aplicação full stack web construída durante o evento **Semana
 A aplicação consiste em um gerenciador de vendas, onde os dados são mostrados no dashboard apresentando duas (2) informações em gráficos: barras e rosca em valores de percentual de sucesso e dos totais de vendas de cada vendedor. 
 É apresentado abaixo dos gráficos uma tabela paginada com as informações da data, nome do vendedor, nome do cliente visitado, negócios fechados e valores em R$.
 
-Observação: ao clicar no link acima aguarde uns minutos após clicar no botão "Acessar dashboard" para que a página do dashbord carregue!
+Observação: ao clicar no link do projeto acima você será direcionado para a página inicial, após clicar no botão "Acessar dashboard" aguarde uns minutos para que a página do dashbord carregue!
 
 ## Layout do dashboard
 ![Tela dashboard](https://github.com/jovinbon/assets/blob/main/dashbordvendas.png)
