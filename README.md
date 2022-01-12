@@ -7,7 +7,7 @@ https://dsvendas-cfontes.netlify.app
 
 DSVEndas é uma aplicação full stack web construída durante o evento **Semana Spring React** (#sds5), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um gerenciador de vendas, onde os dados são mostrados no dashboard apresentando duas (2) informações em gráficos: barras e rosca em valores de percentual de sucesso e dos totais de vendas de cada vendedor. 
+A aplicação consiste em um gerenciador de vendas, onde os dados são mostrados no dashboard apresentando duas (2) informações em gráficos: barra e rosca em valores de percentual de sucesso e dos totais de vendas de cada vendedor. 
 É apresentado abaixo dos gráficos uma tabela paginada com as informações da data, nome do vendedor, nome do cliente visitado, negócios fechados e valores em R$.
 
 Observação: ao clicar no link do projeto acima você será direcionado para a página inicial, após clicar no botão "Acessar dashboard" aguarde uns minutos para que a página do dashbord carregue!
