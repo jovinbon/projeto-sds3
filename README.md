@@ -12,8 +12,8 @@ A aplicação consiste em um gerenciador de vendas, onde os dados são mostrados
 
 Observação: ao clicar no link acima aguarde uns minutos após clicar no botão "Acessar dashboard" para que a página do dashbord carregue!
 
-## Layout tela inicial
-![Tela inicial](https://github.com/jovinbon/assets/blob/main/telainicial.png)
+## Layout tela inicial e dashboard
+![Tela inicial](https://github.com/jovinbon/assets/blob/main/telainicialdsvendas.png)
 
 ## Layout do dashboard
 ![Tela dashboard](https://github.com/jovinbon/assets/blob/main/dashbordvendas.png)
