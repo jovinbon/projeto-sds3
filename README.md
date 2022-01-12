@@ -16,7 +16,7 @@ Observação: ao clicar no link acima aguarde uns minutos após clicar no botão
 ![Tela inicial](https://github.com/jovinbon/assets/blob/main/telainicialdsvendas.png)
 
 ## Layout do dashboard
-![Tela dashboard](https://github.com/jovinbon/assets/blob/main/dashborddsvendas.png)
+![Tela dashboard](https://github.com/jovinbon/assets/blob/main/dashbord.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/jovinbon/assets/blob/main/modeloconceitual.png)
